@@ -5,17 +5,6 @@ Flight delays are a persistent challenge in the aviation industry, impacting air
 This project leverages **Machine Learning (ML)** and **Deep Learning (DL)** techniques using **Apache Spark** to predict flight delays based on large-scale flight data.
 
 The objective is to build robust predictive models that can help airlines **anticipate delays**, optimize scheduling, and enhance the passenger experience.
-
----
-
-## 👥 Team
-**Team Name:** GOAT  
-**Members:**  
-- Yuvaneswaren Ramakrishnan Sureshbabu *(Team Leader)*  
-- Santhosh Reddy Katasani Venkata  
-- Arunaswin Gopinath  
-- Pulipati Kushank  
-
 ---
 
 ## 📊 Dataset
